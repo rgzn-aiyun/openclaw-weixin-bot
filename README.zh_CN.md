@@ -1,5 +1,7 @@
 # OpenClaw Weixin (Python)
 
+[English](./README.md)
+
 这是 OpenClaw Weixin 插件的 Python 重写版本，可以作为独立的机器人运行。
 
 ## 环境要求
