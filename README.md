@@ -1,5 +1,7 @@
 # OpenClaw Weixin (Python)
 
+[简体中文](./README.zh_CN.md)
+
 This is a Python rewrite of the OpenClaw Weixin plugin. It can run as a standalone bot.
 
 ## Requirements
