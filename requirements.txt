@@ -1,0 +1,7 @@
+aiohttp
+pydantic
+qrcode
+cryptography
+pillow
+pytest
+loguru
